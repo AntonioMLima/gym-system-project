@@ -7,7 +7,7 @@ A ideia de explorar esse tipo de domínio veio de um trabalho que eu estou desen
 
 Enfrentei muitas dificuldades para deixar A API da forma que eu queria, mas valeu a pena.
 
-O sistema também é capaz de válidar o CPF do usuário e outras obter informações de endereço cosumindo a API [ViaCep](https://viacep.com.br/)
+O sistema também é capaz de válidar o CPF do usuário e obter informações adicionais de endereço através da API [ViaCep](https://viacep.com.br/)
 
 Farei alguns ajustes no futuro muito provavelmente.
 
